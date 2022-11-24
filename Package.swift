@@ -21,7 +21,7 @@ let package = Package(
        .binaryTarget(
             name: "BinahActivator",
             url: "https://github.com/darwell-inc/ios-binahactivator-spm/releases/download/1.0.3/BinahActivator.xcframework.zip",
-            checksum: "4d529b2b6eac212157e7c36443b3b24aecf13f3fae6ad7f028ac3f68b435141f"
+            checksum: "90dd26a29e92fc089d1e42f1a00b932a4abdfcda93874997a3a2d4b4d3c08d47"
         )
     ]
 )

@@ -17,9 +17,6 @@ let package = Package(
             ]
         ),
     ],
-	dependencies: [
-		.package(url: "git@github.com:ivalx1s/swift-tensorflowlite-spm.git", from: "2.7.0"),
-	],
     targets: [
        .binaryTarget(
             name: "BinahActivator",
